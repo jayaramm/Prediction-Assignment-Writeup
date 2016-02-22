@@ -1,4 +1,4 @@
----
+----
 title: "Prediction Assignment Writeup"
 author: "Tsung-Hsien Lin"
 date: "July 27, 2014"
