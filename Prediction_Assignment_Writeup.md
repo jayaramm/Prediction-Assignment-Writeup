@@ -1,6 +1,6 @@
 # Prediction Assignment Writeup
-Tsung-Hsien Lin  
-July 27, 2014  
+Jayaram 
+FEB 22, 2016 
 
 The goal of this project is to predict the manner in which people did the exercise.
 
